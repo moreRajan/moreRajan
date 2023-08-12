@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moreRajan
-- 👀 I’m interested in data science
+- 👀 The Data Guy
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on the data science project
 - 📫 Follow me on Linkedn
